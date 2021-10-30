@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+<!DOCTYPE hmtl>
+<html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/HOUDAElAF1/HOUDAElAF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<title>Mon CV</title>
+</head>
+<body>
+	<h1>HOUDA EL AFIFE</h1>
+	<img src="houdamini.jpg" />
+</section><hr>	
+<h2> Informations personnelles </h2>
+<p>
+	<ul>
+		<li>Nom:  EL AFIFE </li>
+		<li> Prenom : Houda </li>
+		<li>Adresse : RABAT </li>
+		<li> Age : 19 ans </li>
+	</ul>
+</section><hr>
+<h2>Objectif profesionnel</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p>
+	Intéressée par le domaine de l'informatique et tout ce qui est lié au developpement des logiciels, j'ai pu m'y introduire en les  découvrant durant ma formation à l'Ecole Mohammadia d'Ingénieurs de Rabat</p>
+</section><hr>
+<h2>Formation et Diplôme</h2>
+<p>
+<p>
+	<ul>
+		<li>BAC science math A</li>
+		<li> 2 ans en classe prepa </li>
+		<li> Ingenieur en informatique EMI </li>
+</p>
+</section><hr>
+<h2>Mes compétences</h2>
+<p>
+	<ul>
+		<li>maitrise de html et css </li>
+		<li> maitrise de lanage c , python et java </li>
+		<li> des bases en comtabilité et marketing</li>
+		<li> bonnnes connaissances en comptabilté
+	</ul>
+</p>
+</section><hr>
+<h2>Mon expérience</h2>
+<p>
+	<ul>
+		<li>stage de 3 mois chez ocp </li>
+		<li> cheft de projet de realisation d'un systeme de gestion d'une banque ;</li>
+	</ul>
+	</p>
+</section><hr>
+<h2> Loisirs et Centres d'intêret</h2>
+<p>
+	<ul>
+		<li>Sport</li>
+		<li> Gaming </li>
+		<li> Literature</li>
+	</ul>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HOUDAElAF1/HOUDAElAF/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	</body>
+	</html>	
